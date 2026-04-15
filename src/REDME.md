@@ -1,4 +1,4 @@
-# 📌 API de Gerenciamento de Tarefas
+# API de Gerenciamento de Tarefas
 
 ## Descrição da API
 
